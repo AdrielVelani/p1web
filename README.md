@@ -58,7 +58,7 @@ Esse projeto foi feito usando a plataforma Node.js com o objetivo de entender e 
      npm start
 
   4 Acesse pelo navegador
-     http://localhost:3000
+     http://localhost:2000
 
 ## Validação dos Dados
 
