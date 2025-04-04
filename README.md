@@ -78,7 +78,7 @@ As verificações foram feitas direto no código sem usar bibliotecas. Elas gara
 ## Testes
 
 Tem imagens dos testes feitos nesse link
-https://github.com/AdrielVelani/p1web/Testes
+https://github.com/AdrielVelani/p1web/tree/master/Testes
 
 Integrantes do grupo
 
