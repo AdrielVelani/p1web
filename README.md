@@ -27,6 +27,7 @@ Esse projeto foi feito usando a plataforma Node.js com o objetivo de entender e 
   Foram usados middlewares que tratam os pedidos antes de chegar nos controladores
   Cada parte tem sua responsabilidade para deixar o código mais organizado e fácil de mexer depois
 
+
 ## Desafios e como resolvemos
 
 # Durante o desenvolvimento apareceram alguns problemas
@@ -39,6 +40,7 @@ Esse projeto foi feito usando a plataforma Node.js com o objetivo de entender e 
 
   Conexão com o Banco de Dados
     Era importante cuidar bem das conexões para não dar erro com vários pedidos ao mesmo tempo
+    Além disso, tivemos dificuldade em utilizar a porta 3000, por esse motivo utilizamos a 200
 
 # Como resolvemos
 
